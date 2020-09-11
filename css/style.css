@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(61, 61, 61) ;
+}
+
+ul {
+    list-style-type: square;
+}
+
+img.Spagett {
+    border-radius: 10%;
+}
+
+img.Default {
+    border-radius: 40%;
+}
+
+hr {
+    width: 100%;
+    border-style: ridge none none;
+    border-width: 1rem;
+    border-color: rgb(76, 175, 150)
+
+}
